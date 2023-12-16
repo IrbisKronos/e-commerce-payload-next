@@ -41,7 +41,7 @@ const Promotion = () => {
     <section className={classes.promotion}>
       <div className={classes.textBox}>
         <h3 className={classes.title}>Deals of the Month</h3>
-        <p>
+        <p className={classes.text}>
           Get ready for a shopping experience like never before with our Deals of the Month! Every
           purchase comes with exclusive perks and offers, making this month a celebration of savvy
           choices and amazing deals. Don't miss out! 🎁🛒
